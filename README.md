@@ -11,3 +11,11 @@ https://user-images.githubusercontent.com/91191428/193149322-e0881fec-5c70-4035-
 
 # Specification
 The site is suitable for all screen sizes
+
+# Skills
+
+- Write maintainable HTML and CSS code
+- Ensure the accessibility of a website
+- Optimize the SEO of a website
+- Conduct research on best practices in web development
+- Optimizing an existing website
